@@ -50,10 +50,13 @@ dict_attack_ig is a Python script designed to perform a dictionary attack on Ins
     sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
     ```
 
-5. Verify ChromeDriver installation:
+5. Verify ChromeDriver and Google chrome versions:
 
     ```sh
-    chromedriver --version
+    mac && linux: chromedriver --version
+    
+    mac: /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
+    linux: google-chrome --version
     ```
 
 6. Ensure you have Google Chrome version 126 installed. If not, download and install it from [Chrome's official site](https://www.google.com/chrome/).
