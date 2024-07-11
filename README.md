@@ -1,13 +1,11 @@
 # dict_attack_ig
 
 ⚠️ DISCLAIMER ⚠️
-Educational Purposes Only!: This repository is intended solely for educational purposes and to support ethical hacking practices. 
-It is designed to help users understand the importance of cybersecurity and the techniques used to test and strengthen security systems.
+Educational Purposes Only!: This repository is intended solely for educational purposes and to support ethical hacking practices. It is designed to help users understand the importance of cybersecurity and the techniques used to test and strengthen security systems.
 
 No Unauthorized Access!: Unauthorized access to accounts, systems, or networks is illegal and unethical. This script must not be used for any malicious or illegal activities. The author is not responsible for any misuse of the provided code.
 
-Use Responsibly!: Always obtain proper authorization before attempting any form of penetration testing. Use this knowledge to protect and secure systems, not to harm them.
-Testing must be only conducted on accounts that you own or have explicit permission to test.
+Use Responsibly!: Always obtain proper authorization before attempting any form of penetration testing. Use this knowledge to protect and secure systems, not to harm them. Testing must be only conducted on accounts that you own or have explicit permission to test.
 
 By using this repository, you agree to these terms and accept full responsibility for your actions.
 
