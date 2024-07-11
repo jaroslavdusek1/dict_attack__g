@@ -10,7 +10,7 @@ Use Responsibly!: Always obtain proper authorization before attempting any form 
 Testing must be only conducted on accounts that you own or have explicit PERMISSION to test.
 
 By using this repository, you agree to these terms and accept full responsibility for your actions.
-⚠️ DISCLAIMER ⚠️
+
 
 ## description
 dict_attack_ig is a .py script designed to perform a dictionary attack on Instagram login. By using a provided wordlist and a username/email, attempting to gain access to the specified Instagram accountm if a successful login is detected, the script will print the successful password and terminate
