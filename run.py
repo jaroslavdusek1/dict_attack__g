@@ -67,6 +67,7 @@ wordlist_name = args.wordlist
 username = args.username
 
 # Print entered username and wordlist
+print(f"site: {site}")
 print(f"username: {username}")
 print(f"wordlist: {wordlist_name}")
 print("////////////////////////////////////////////////////////////////////////////////////////////////")
