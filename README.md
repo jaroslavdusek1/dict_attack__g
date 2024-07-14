@@ -11,7 +11,7 @@
 By using this repository, you agree to these terms and accept full responsibility for your actions.
 
 ## description
-dict_attack_ig is a .py script designed to perform a dictionary attack on Instagram login. By using a provided wordlist and a username/email, attempting to gain access to the specified Instagram accountm if a successful login is detected, the script will print the successful password and terminate
+dict_attack__g is a .py script designed to perform a dictionary attack on login. By using a provided wordlist and a username/email, attempting to gain access to the specified _g accountm if a successful login is detected, the script will print the successful password and terminate
 
 ## features
 - uses selenium webDriver to automate interactions with IG's login page
@@ -25,8 +25,8 @@ dict_attack_ig is a .py script designed to perform a dictionary attack on Instag
 1. clone the repo:
 
     ```sh
-    git clone https://github.com/jaroslavdusek1/dict_attack_ig.git
-    cd dict_attack_ig
+    git clone https://github.com/jaroslavdusek1/dict_attack__g.git
+    cd dict_attack__g
     ```
 
 2. create and activate a venv:
