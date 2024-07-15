@@ -11,7 +11,7 @@
 By using this repository, you agree to these terms and accept full responsibility for your actions.
 
 ## description
-dict_attack__g is a .py script designed to perform a dictionary attack on login. By using a provided wordlist and a username/email, attempting to gain access to the specified _g accountm if a successful login is detected, the script will print the successful password and terminate
+dict_attack__g is a .py script designed to perform a dictionary attack on login. By using a provided wordlist and a username/email, attempting to gain access to the specified _g account if a successful login is detected, the script will print the successful password and terminate
 
 ## features
 - uses selenium webDriver to automate interactions with _G's login page
@@ -109,7 +109,7 @@ dict_attack__g is a .py script designed to perform a dictionary attack on login.
 to run the script, use the following command:
 
 ```sh
-python3 run.py -s [login_site] -w [wordlist_file] -u [username]
+python3 run.py -w [wordlist_file] -u [username]
 ```
 
 Testing Environments
