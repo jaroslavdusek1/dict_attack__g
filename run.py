@@ -23,9 +23,9 @@ Usage:
     python3 run.py -w [wordlist_file] -u [username]
 
 Arguments:
-    -s, --site  : The url to redirect to login page.
-    -w, --wordlist  : The name of the wordlist file containing passwords to try.
-    -u, --username  : The username or email address for the Instagram account to attack.
+    -s, --site  : The url to redirect to login page
+    -w, --wordlist  : The name of the wordlist file containing passwords to try
+    -u, --username  : The username or email address for the _g account to attack
 
 Dependencies:
     - selenium library for automating web browser interaction
@@ -33,8 +33,8 @@ Dependencies:
     - argparse for handling command-line arguments
 
 Notes:
-    The script uses Selenium WebDriver to interact with the Instagram login page.
-    Ensure that you have the Chrome WebDriver installed and accessible in your PATH.
+    The script uses Selenium WebDriver to interact with the Instagram login page
+    Ensure that you have the Chrome WebDriver installed and accessible in your PATH
 """
 
 import argparse
