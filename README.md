@@ -109,7 +109,7 @@ dict_attack__g is a .py script designed to perform a dictionary attack on login.
 to run the script, use the following command:
 
 ```sh
-python3 run.py -w [wordlist_file] -u [username]
+python3 run.py -s [login_site] -w [wordlist_file] -u [username]
 ```
 
 Testing Environments
