@@ -117,3 +117,7 @@ tested on macOS ARM-1 Ventura 13.6 and Kali Linux Purple with AMD, both setups p
 
 Google Chrome: 126.0.6478.127
 ChromeDriver: 126.0.6478.126
+
+
+18.07. 2024
+- added .py script run_linux.py - advanced run.py - ip manipulation, handling CAPTCHA etc., check run_linux_desc.txt file for more info
