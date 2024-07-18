@@ -120,4 +120,4 @@ ChromeDriver: 126.0.6478.126
 
 
 18.07. 2024
-- added .py script run_linux.py - advanced run.py - ip manipulation, handling CAPTCHA etc., check run_linux_desc.txt file for more info
+- added .py script run_linux.py - advanced run.py - ip manipulation, handling CAPTCHA etc., check run_linux_desc.txt file for more info - Tested and Working on Kali Purple with AMD 
