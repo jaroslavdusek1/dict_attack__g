@@ -1,0 +1,20 @@
+
+differences from run.py:
+
+vpn integration:
+
+- after each password attempt, the script changes the vpn server to a new country. this is done by calling the change_vpn function, which uses nordvpn's command line interface to switch servers
+- the script prints the current ip address to confirm that the vpn change was successful
+- this process helps to distribute the login attempts across multiple ip addresses, reducing the risk of being blocked by instagram
+
+
+vpn setup:
+
+- for nordvpn users, make sure you are logged in, the script directly uses the nordvpn command to switch servers, if you are using a different vpn provider, you need to modify the change_vpn function
+- the new vpn command should connect to a specified country and print the new ip address to the console, this ensures compatibility with various vpn services
+
+
+captcha handling:
+
+- the script checks for captcha by inspecting the current url after each login attempt
+upon detecting a captcha, the script changes the vpn server and retries the password. this mechanism helps to bypass the captcha without manual intervention
