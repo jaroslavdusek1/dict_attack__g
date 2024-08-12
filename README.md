@@ -12,6 +12,7 @@ By using this repository, you agree to these terms and accept full responsibilit
 
 ### Demos
 basic dict https://www.youtube.com/watch?v=vkUmclJkol0
+
 advanced dict https://www.youtube.com/watch?v=zyxrz7v8Tus&t=0s including bypassing captcha, ipadd manipulation etc.
 
 ## description
