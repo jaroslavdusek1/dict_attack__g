@@ -10,6 +10,10 @@
 
 By using this repository, you agree to these terms and accept full responsibility for your actions.
 
+### Demos
+basic dict https://www.youtube.com/watch?v=vkUmclJkol0
+advanced dict https://www.youtube.com/watch?v=zyxrz7v8Tus&t=0s including bypassing captcha, ipadd manipulation etc.
+
 ## description
 dict_attack__g is a .py script designed to perform a dictionary attack on login. By using a provided wordlist and a username/email, attempting to gain access to the specified _g account if a successful login is detected, the script will print the successful password and terminate
 
